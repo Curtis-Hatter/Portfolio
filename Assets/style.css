@@ -1,3 +1,7 @@
+* {
+    /* font-family: ; */
+}
+
 /* cloned from homework one */
 
 .figure {
@@ -23,4 +27,8 @@ p {
 
 ul {
     font-weight: bold;
+}
+
+footer {
+    color: antiquewhite;
 }
