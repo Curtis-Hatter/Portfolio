@@ -1,1 +1,12 @@
-.boxer {}
+.figure {
+    height: 800px;
+    width: 500px;
+    /* margin-bottom: 25px; */
+    background-image: url("./Images/74091_169137416431427_8135311_n.png");
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: aliceblue;
+}
