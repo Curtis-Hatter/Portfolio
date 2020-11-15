@@ -50,6 +50,12 @@ img {
     box-shadow: 0px 0px 10px 3px grey;
 }
 
+/* reduce height of image to create pleasant image growth effect */
+
+#minimilist {
+    max-height: 80%;
+}
+
 /* increase border radius for tokens for a cleaner asthetic */
 
 .tokens {
@@ -59,4 +65,13 @@ img {
 h5 {
     margin: 20px;
     text-align: center;
+}
+
+hr {
+    background: white;
+}
+
+.contact-form {
+    background: rgba(0, 0, 0, .6);
+    color: white;
 }
