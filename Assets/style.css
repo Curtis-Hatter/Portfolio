@@ -15,8 +15,10 @@
 body {
     /* gives the background a soft white neutral tone*/
     background-image: url("./Images/photo-1558591710-4b4a1ae0f04d.jpg");
+    background-color: antiquewhite;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 /* really makes that text pop */
@@ -31,12 +33,6 @@ ul {
 
 .color {
     color: antiquewhite;
-}
-
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
 }
 
 /* spreading images for portfolio */
@@ -83,6 +79,13 @@ hr {
     background: rgba(0, 0, 0, .6);
     color: antiquewhite;
     margin-top: 100px;
+    /* forces footer in contact */
+    margin-bottom: 20%;
     padding: 20px;
     box-shadow: 0px 0px 10px 3px grey;
+}
+
+.footer {
+    width: 100%;
+    bottom: 0;
 }
