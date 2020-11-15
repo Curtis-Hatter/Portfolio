@@ -33,7 +33,22 @@ footer {
     color: antiquewhite;
 }
 
+/* spreading images for portfolio */
+
 img {
-    max-width: 300px;
+    display: block;
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
     border-radius: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin: 20px;
+    text-align: center;
 }
