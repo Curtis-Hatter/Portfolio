@@ -4,12 +4,13 @@
 
 /* cloned from homework one */
 
-.figure {
+figure {
     height: 800px;
-    width: 500px;
+    width: 100%;
     background-image: url("./Images/74091_169137416431427_8135311_n.png");
     background-size: cover;
     background-position: center;
+    margin-bottom: 0px;
 }
 
 body {
@@ -23,11 +24,7 @@ body {
 
 /* really makes that text pop */
 
-p {
-    font-weight: bold;
-}
-
-ul {
+p, ul {
     font-weight: bold;
 }
 
@@ -83,9 +80,4 @@ hr {
     margin-bottom: 20%;
     padding: 20px;
     box-shadow: 0px 0px 10px 3px grey;
-}
-
-.footer {
-    width: 100%;
-    bottom: 0;
 }
