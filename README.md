@@ -1,4 +1,4 @@
-# Unit 08 Project 1 Homework: Professional Materials
+# Professional Materials
 
 # https://github.com/Curtis-Hatter
 # https://github.com/Curtis-Hatter/Portfolio
