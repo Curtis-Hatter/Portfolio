@@ -41,7 +41,7 @@ p, ul {
 img {
     display: block;
     height: auto;
-    width: auto;
+    width: 100%;
     max-height: 100%;
     max-width: 100%;
     border-radius: 10%;
@@ -51,6 +51,11 @@ img {
     margin-bottom: 10px;
     /* Increase dimension of content */
     box-shadow: 0px 0px 10px 3px grey;
+}
+
+.Curtis {
+    /* Increase dimension of content */
+    box-shadow: 0px 0px 0px 0px grey;
 }
 
 /* reduce height of image to create pleasant image growth effect */
@@ -75,13 +80,30 @@ h5 {
 hr {
     background: antiquewhite;
 }
+.hr-black{
+    background: black;
+}
 
 .contact-form {
     background: rgba(0, 0, 0, .6);
-    color: antiquewhite;
+    color: white;
     margin-top: 100px;
     /* forces footer in contact */
     margin-bottom: 20%;
     padding: 20px;
     box-shadow: 0px 0px 10px 3px grey;
+}
+
+.websitelinks{
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    padding: 2.5%;
+    margin-left: 10%;
+    display: inline-block;
+}
+
+a:hover {
+    color: grey;
+    text-decoration: underline;
 }
