@@ -1,22 +1,15 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from "../components/Navbar/Navbar";
-import Footer from "../components/Footer/Footer";
+import "./style.css";
+import Curtis from "../../Assets/Images/74091_169137416431427_8135311_n.png"
 
-
-function Portfolio() {
+function AboutMe() {
   
-  return (
-    <div>
-      <Navbar />
-
-      <main className="container">
+    return (
+        <div className="container margins" id="Home">
         <div className="row">
-            
-            
-            <img src="../Assets/Images/74091_169137416431427_8135311_n.png" alt="Male with mustache standing proudly" className="col-lg Curtis"/>
-            
-            <content className="col-lg">
+            <img src={Curtis} alt="Male with mustache standing proudly" className="col-lg Curtis"/>
+            <div className="col-lg">
                 <div className="row">
                     <h1>About Me</h1>
                     <p>
@@ -55,13 +48,10 @@ function Portfolio() {
                     Currently I'm enjoying Dungeons and Dragons 5th edition with my immediate relatives,
                     especially since I'm the dungeon master and am running the campaign.
                 </p>
-            </content>
+            </div>
         </div>
-    </main>
-
-      <Footer />
     </div>
-  );
-}
-
-export default Portfolio;
+    );
+  }
+  
+  export default AboutMe;
