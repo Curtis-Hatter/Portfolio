@@ -25,7 +25,7 @@ import GroupCharacters from "./portfolio images/the group.png";
 function Content() {
   
   return (
-    <div id="Content">
+    <div className="margins" id="Content">
       <div className="container">
         <div>
             <h1>Content</h1>

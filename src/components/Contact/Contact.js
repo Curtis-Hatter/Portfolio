@@ -5,10 +5,12 @@ import Indeed from "./contact images/indeed.png";
 import GitHub from "./contact images/GitHub-Mark.png";
 import Resume from "./contact images/20180707_171406 crop.jpg";
 import ResumePDF from "./contact images/Curtis-Hatter.pdf";
+import "./style.css";
 
 function Contact() {
 
-    return <div className="container contact-form" id="Contact">
+    return <div className="margins">
+    <div className="container contact-form" id="Contact">
     <h1>Contact Form</h1>
     <hr/>
     <div className="row">
@@ -65,6 +67,7 @@ function Contact() {
             </form>
         </section>
     </div>
+</div>
 </div>
 }
 
