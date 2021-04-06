@@ -17,8 +17,8 @@ function Portfolio() {
     <div>
       <Navbar />
       <AboutMe />
-      <Content id="Content" />
-      <Contact id="Contact"/>
+      <Content />
+      <Contact />
       <Footer />
     </div>
   );
