@@ -6,6 +6,7 @@ import Burger from "../Burger/Burger";
 import Lubens from "../Lubens/Lubens";
 import Icons from "../Icons/Icons";
 import CrudePhotoshops from "../CrudePhotoshops/CrudePhotoshops";
+import GoogleSearch from "../GoogleSearch/GoogleSearch";
 
 
 function Content() {
@@ -22,6 +23,8 @@ function Content() {
             <h5>Another project that I've been working is a song-translator</h5>
             <br/>
             <SongTranslator />
+            <br/>
+            <GoogleSearch />
             <br/>
             <Burger />            
             <hr className="hr-black"/>
