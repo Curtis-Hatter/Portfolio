@@ -9,9 +9,7 @@ import Contact from "../Contact/Contact";
 
 function Portfolio() {
   
-  const anchor = document.getElementById('#Contact');
-  console.log(anchor);
-  // anchor.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  
 
   return (
     <div>

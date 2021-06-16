@@ -2,6 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import BurgerWebPage from "./portfolio images/Artboard 1.png";
 import BurgerWebPageBottom from "./portfolio images/Artboard 2.png";
+import CharacterTavern from "./portfolio images/Character Tavern.gif";
 
 function Burger() {
     return (<div className="row">
@@ -10,20 +11,17 @@ function Burger() {
         <img src={BurgerWebPageBottom} alt="Full Stack Burger Web Page bottom"/>
     </div>
     <div className="col-md-6">
-        <p>This is another stupid one but in fact a full stack website with an MVC (Model View Controller)
-            structure. It allows users to store and eat burgers while always being saved in a database. It
-            may not seem like much but there's actually a lot going on here, even with the crude rainbow
-            effects. Check it out!</p>
-        <iframe title="Burger Website"width="420" height="315"
-            src="https://www.youtube.com/watch?v=msvdn95x9OM&feature=youtu.be&ab_channel=TheBootCamp"
-            alt="Full Stack Burger Web Page Video"></iframe>
+        <p>This is the creme de la creme! A full stack website utilizing everything I've learned. This application takes out the problems of creating a character in Dungeons and Dragons 5th edition. Utilizing authentication, react, node.js, and a database. This application shows it all! Check it out!</p>
+        <img alt="Tavern Website"
+            src={CharacterTavern}
+            ></img>
         <p>
-            <a className="websitelinks" href="https://dry-peak-79203.herokuapp.com/">
-                Burgers Website </a>
+            <a className="websitelinks" href="https://character-creator-tavern.herokuapp.com/">
+                Tavern Website </a>
         </p>
         <p>
-            <a className="websitelinks" href="https://github.com/Curtis-Hatter/burger">
-                Burgers Repository </a>
+            <a className="websitelinks" href="https://github.com/Hammonds526/CharacterCreator">
+                Tavern Repository </a>
         </p>
     </div>
 </div>)
