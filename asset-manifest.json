@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e68b2e9a.chunk.css",
-    "main.js": "/Portfolio/static/js/main.7e65bbb9.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.7e65bbb9.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.6ea3034d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.6ea3034d.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.554e0ebb.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.554e0ebb.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
@@ -16,8 +16,9 @@
     "static/media/App.css": "/Portfolio/static/media/photo-1558591710-4b4a1ae0f04d.37a10c56.jpg",
     "static/media/811x6E1vDzL._AC_SL1500_.e6df01c3.png": "/Portfolio/static/media/811x6E1vDzL._AC_SL1500_.e6df01c3.png",
     "static/media/92e78d29868b2fe65c13bc68255e9a44.ae5b9c58.jpg": "/Portfolio/static/media/92e78d29868b2fe65c13bc68255e9a44.ae5b9c58.jpg",
-    "static/media/Artboard 1.85452de3.png": "/Portfolio/static/media/Artboard 1.85452de3.png",
-    "static/media/Artboard 2.ffdaf18c.png": "/Portfolio/static/media/Artboard 2.ffdaf18c.png",
+    "static/media/Artboard 1.c0551ddf.png": "/Portfolio/static/media/Artboard 1.c0551ddf.png",
+    "static/media/Artboard 2.35a65bf7.png": "/Portfolio/static/media/Artboard 2.35a65bf7.png",
+    "static/media/Character Tavern.64d5c3ba.gif": "/Portfolio/static/media/Character Tavern.64d5c3ba.gif",
     "static/media/Curtis-Hatter.641df0d3.pdf": "/Portfolio/static/media/Curtis-Hatter.641df0d3.pdf",
     "static/media/Ian.9d3a2094.png": "/Portfolio/static/media/Ian.9d3a2094.png",
     "static/media/Lothering Top half.ba73725e.jpg": "/Portfolio/static/media/Lothering Top half.ba73725e.jpg",
@@ -47,6 +48,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.dd077534.chunk.js",
     "static/css/main.e68b2e9a.chunk.css",
-    "static/js/main.7e65bbb9.chunk.js"
+    "static/js/main.6ea3034d.chunk.js"
   ]
 }
