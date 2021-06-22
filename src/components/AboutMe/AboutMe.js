@@ -37,9 +37,9 @@ function AboutMe() {
                     University of California, Riverside - Riverside, CA
                 </p>
                 <p>
-                    Udemy Certificate: August 2020<br/>
-                    Complete C# Masterclass<br/>
-                    &copy 2020 Udemy, Inc.
+                    Full Stack Certificate: August 2020<br/>
+                    Full Stack Coding Bootcamp<br/>
+                    UCR Extension Center.
                 </p>
                 <h3>Interests</h3>
                 <p>
